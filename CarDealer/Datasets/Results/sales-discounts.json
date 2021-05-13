@@ -1,0 +1,110 @@
+[
+  {
+    "car": {
+      "make": "BMW",
+      "model": "E67",
+      "travelledDistance": 476830509,
+      "parts": null
+    },
+    "customerName": "Daniele Zarate",
+    "Discount": 15.00,
+    "price": 2014.83,
+    "priceWithDiscount": 1712.61
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Omega",
+      "travelledDistance": 277250812,
+      "parts": null
+    },
+    "customerName": "Faustina Burgher",
+    "Discount": 20.00,
+    "price": 1544.83,
+    "priceWithDiscount": 1235.86
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Insignia",
+      "travelledDistance": 168539389,
+      "parts": null
+    },
+    "customerName": "Marcelle Griego",
+    "Discount": 15.00,
+    "price": 619.66,
+    "priceWithDiscount": 526.71
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Vectra",
+      "travelledDistance": 433351992,
+      "parts": null
+    },
+    "customerName": "Audrea Cardinal",
+    "Discount": 30.00,
+    "price": 1223.31,
+    "priceWithDiscount": 856.32
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F04",
+      "travelledDistance": 443756363,
+      "parts": null
+    },
+    "customerName": "Donnetta Soliz",
+    "Discount": 50.00,
+    "price": 1655.57,
+    "priceWithDiscount": 827.79
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F25",
+      "travelledDistance": 476132712,
+      "parts": null
+    },
+    "customerName": "Lino Subia",
+    "Discount": 0.00,
+    "price": 489.20,
+    "priceWithDiscount": 489.20
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Astra",
+      "travelledDistance": 516628215,
+      "parts": null
+    },
+    "customerName": "Ann Mcenaney",
+    "Discount": 10.00,
+    "price": 1284.32,
+    "priceWithDiscount": 1155.89
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Omega",
+      "travelledDistance": 111313670,
+      "parts": null
+    },
+    "customerName": "Zada Attwood",
+    "Discount": 0.00,
+    "price": 1197.55,
+    "priceWithDiscount": 1197.55
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "M5 F10",
+      "travelledDistance": 435603343,
+      "parts": null
+    },
+    "customerName": "Hai Everton",
+    "Discount": 30.00,
+    "price": 2544.67,
+    "priceWithDiscount": 1781.27
+  }
+]
